@@ -1,6 +1,6 @@
 # JavaScript
 
-Welcome to the JavaScript Code Repository! This repository contains various JavaScript files covering a wide range of topics, from basic syntax and control flow to advanced concepts like DOM manipulation, events, object-oriented programming, and more.
+Welcome to the JavaScript Code Repository! 
 
 ## Table of Contents
 
